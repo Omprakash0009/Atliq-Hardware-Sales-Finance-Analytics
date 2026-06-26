@@ -176,7 +176,7 @@ Track monthly financial trends.
 
 ### Dashboard
 
-![Profit & Loss by Fiscal Month](images/pl_fiscal_month.png)
+![Profit & Loss by Fiscal Month](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0009.jpg?raw=true)
 
 ### Highlights
 - Seasonal patterns influenced revenue distribution.
