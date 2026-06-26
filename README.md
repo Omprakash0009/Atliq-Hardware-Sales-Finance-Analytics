@@ -161,7 +161,7 @@ Analyze annual financial performance.
 
 ### Dashboard
 
-![Profit & Loss by Fiscal Year](images/pl_fiscal_year.png)
+![Profit & Loss by Fiscal Year](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0008.jpg?raw=true)
 
 ### Highlights
 - Revenue increased significantly from FY2019 to FY2021.
