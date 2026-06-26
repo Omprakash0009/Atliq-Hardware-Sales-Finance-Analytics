@@ -80,7 +80,7 @@ Measure the impact of products introduced during FY2021.
 
 ### Dashboard
 
-![New Products Analysis](images/new_products.png)
+![New Products Analysis](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0003.jpg?raw=true)
 
 ### Highlights
 - Sixteen products were launched.
