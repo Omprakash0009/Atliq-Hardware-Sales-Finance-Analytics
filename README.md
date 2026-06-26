@@ -206,7 +206,7 @@ Evaluate regional profitability trends.
 
 ### Dashboard
 
-![Gross Margin by Quarter and Sub-Zone](images/gm_subzone.png)
+![Gross Margin by Quarter and Sub-Zone](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0011.jpg?raw=true)
 
 ### Highlights
 - Regional differences highlighted operational efficiency variations.
