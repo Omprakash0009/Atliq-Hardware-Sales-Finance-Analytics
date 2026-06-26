@@ -191,7 +191,7 @@ Compare profitability across markets.
 
 ### Dashboard
 
-![Profit & Loss by Market](images/pl_market.png)
+![Profit & Loss by Market](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0010.jpg?raw=true)
 
 ### Highlights
 - Japan and New Zealand achieved strong gross margins.
