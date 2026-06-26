@@ -110,7 +110,7 @@ Evaluate revenue contributions across international markets.
 
 ### Dashboard
 
-![Country Net Sales](images/country_sales.png)
+![Country Net Sales](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0005.jpg?raw=true)
 
 ### Highlights
 - India remained the largest market.
