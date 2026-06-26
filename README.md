@@ -48,7 +48,7 @@ Identify products with the highest year-over-year growth.
 
 ### Dashboard
 
-![Top 10 Products](images/top_10_products.png)
+![Top 10 Products]([images/top_10_products.png](https://raw.githubusercontent.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/5c4126329665610b4e60bea48b5cc3e2812608af/CodeBasics%20Excel%20Project_page-0001.jpg)
 
 ### Highlights
 - AQ Mx NB achieved the highest growth rate.
