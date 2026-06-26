@@ -140,7 +140,7 @@ Compare actual sales against planned targets.
 
 ### Dashboard
 
-![Market Performance vs Target](images/market_target.png)
+![Market Performance vs Target](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0007.jpg?raw=true)
 
 ### Highlights
 - Several markets exceeded expectations.
