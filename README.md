@@ -64,7 +64,7 @@ Analyze sales performance across divisions.
 
 ### Dashboard
 
-![Division Performance](images/division_performance.png)
+![Division Performance](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0002.jpg?raw=true)
 
 ### Highlights
 - Personal Computers recorded the highest growth.
