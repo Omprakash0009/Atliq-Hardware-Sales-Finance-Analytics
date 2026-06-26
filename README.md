@@ -95,7 +95,7 @@ Compare best-selling and least-selling products.
 
 ### Dashboard
 
-![Top and Bottom Products](images/top_bottom_products.png)
+![Top and Bottom Products](https://github.com/Omprakash0009/Atliq-Hardware-Sales-Finance-Analytics/blob/main/CodeBasics%20Excel%20Project_page-0004.jpg?raw=true)
 
 ### Highlights
 - High-performing products demonstrated strong market demand.
