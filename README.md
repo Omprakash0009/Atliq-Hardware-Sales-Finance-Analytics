@@ -1,31 +1,26 @@
-````markdown
-# AtliQ Hardware Sales & Finance Analytics | Excel Project
+# AtliQ Hardware | Sales & Finance Analytics
 
-## Project Overview
+## Overview
 
-This project focuses on analyzing sales and financial performance data for AtliQ Hardware using Microsoft Excel.
+This project presents a comprehensive sales and finance analysis for AtliQ Hardware using Microsoft Excel. The objective was to convert raw business data into meaningful insights that support strategic decision-making across products, customers, markets, and financial operations.
 
-The objective was to transform raw business data into actionable insights through advanced Excel techniques, enabling better decision-making across sales operations, customer management, market expansion, and financial planning.
-
----
-
-## Business Objectives
-
-### Sales Analytics
-- Analyze product and division performance.
-- Identify high-performing customers and markets.
-- Evaluate sales performance against targets.
-- Discover opportunities for business growth.
-
-### Finance Analytics
-- Monitor profitability across fiscal periods.
-- Track revenue and gross margin trends.
-- Compare financial performance across global markets.
-- Analyze gross margin performance by region.
+The analysis combines data preparation, business reporting, and visualization techniques to provide a clear understanding of organizational performance.
 
 ---
 
-## Tools & Skills Used
+## Business Problem
+
+AtliQ Hardware operates across multiple international markets and product categories. Leadership required an analytical solution to:
+
+- Monitor product and division growth.
+- Evaluate customer and market performance.
+- Compare actual sales against targets.
+- Track profitability across fiscal years and regions.
+- Support business decisions with data-driven insights.
+
+---
+
+## Tools & Techniques
 
 - Microsoft Excel
 - Power Query
@@ -34,177 +29,230 @@ The objective was to transform raw business data into actionable insights throug
 - Data Cleaning
 - Data Transformation
 - Conditional Formatting
+- Business Reporting
 - Sales Analytics
 - Financial Analysis
-- Dashboard Development
-- Business Reporting
 
 ---
 
-# SALES ANALYTICS
+# Sales Analytics
+
+The Sales Analytics section focuses on product performance, customer growth, market trends, and target achievement.
 
 ---
 
 ## Report 1: Top 10 Products
 
 ### Objective
-Analyze the best-performing products and compare year-over-year growth.
+Identify products with the highest year-over-year growth.
 
-### Visualization
+### Dashboard
 
 ![Top 10 Products](images/top_10_products.png)
+
+### Highlights
+- AQ Mx NB achieved the highest growth rate.
+- AQ Electron 4 3600 Desktop Processor remained a major revenue contributor.
+- Product innovation accelerated overall business growth.
 
 ---
 
 ## Report 2: Division Performance
 
 ### Objective
-Evaluate performance across business divisions, including Networking & Security, Accessories & Peripherals, and Personal Computers.
+Analyze sales performance across divisions.
 
-### Visualization
+### Dashboard
 
 ![Division Performance](images/division_performance.png)
+
+### Highlights
+- Personal Computers recorded the highest growth.
+- Accessories and Peripherals generated the largest revenue.
+- Networking and Security maintained steady expansion.
 
 ---
 
 ## Report 3: New Products Analysis
 
 ### Objective
-Measure revenue generated from products launched in FY2021.
+Measure the impact of products introduced during FY2021.
 
-### Visualization
+### Dashboard
 
-![New Products Analysis](images/new_products_analysis.png)
+![New Products Analysis](images/new_products.png)
+
+### Highlights
+- Sixteen products were launched.
+- AQ Qwerty emerged as the strongest new product.
 
 ---
 
 ## Report 4: Top & Bottom Products
 
 ### Objective
-Identify products with the highest and lowest sales quantities.
+Compare best-selling and least-selling products.
 
-### Visualization
+### Dashboard
 
 ![Top and Bottom Products](images/top_bottom_products.png)
+
+### Highlights
+- High-performing products demonstrated strong market demand.
+- Underperforming products highlighted optimization opportunities.
 
 ---
 
 ## Report 5: Country Net Sales Analysis
 
 ### Objective
-Compare net sales performance across major markets.
+Evaluate revenue contributions across international markets.
 
-### Visualization
+### Dashboard
 
-![Country Net Sales](images/country_net_sales.png)
+![Country Net Sales](images/country_sales.png)
+
+### Highlights
+- India remained the largest market.
+- USA, South Korea, Canada, and the United Kingdom followed closely.
 
 ---
 
 ## Report 6: Customer Performance
 
 ### Objective
-Analyze customer-wise revenue growth and performance trends.
+Analyze customer-level revenue growth.
 
-### Visualization
+### Dashboard
 
 ![Customer Performance](images/customer_performance.png)
+
+### Highlights
+- Strategic retail partners significantly contributed to revenue growth.
+- Customer performance accelerated in FY2021.
 
 ---
 
 ## Report 7: Market Performance vs Target
 
 ### Objective
-Evaluate actual market performance against planned targets.
+Compare actual sales against planned targets.
 
-### Visualization
+### Dashboard
 
-![Market Performance vs Target](images/market_vs_target.png)
+![Market Performance vs Target](images/market_target.png)
+
+### Highlights
+- Several markets exceeded expectations.
+- Certain regions presented opportunities for improvement.
 
 ---
 
-# FINANCE ANALYTICS
+# Finance Analytics
+
+The Finance Analytics section evaluates profitability, revenue growth, and gross margin performance across markets and fiscal periods.
 
 ---
 
 ## Report 1: Profit & Loss by Fiscal Year
 
 ### Objective
-Analyze annual revenue, cost of goods sold, gross margin, and profitability trends.
+Analyze annual financial performance.
 
-### Visualization
+### Dashboard
 
-![Profit and Loss by Fiscal Year](images/pl_fiscal_year.png)
+![Profit & Loss by Fiscal Year](images/pl_fiscal_year.png)
+
+### Highlights
+- Revenue increased significantly from FY2019 to FY2021.
+- Gross margins remained healthy despite expansion.
 
 ---
 
 ## Report 2: Profit & Loss by Fiscal Month
 
 ### Objective
-Track monthly financial performance and year-over-year growth.
+Track monthly financial trends.
 
-### Visualization
+### Dashboard
 
-![Profit and Loss by Fiscal Month](images/pl_fiscal_month.png)
+![Profit & Loss by Fiscal Month](images/pl_fiscal_month.png)
+
+### Highlights
+- Seasonal patterns influenced revenue distribution.
+- Monthly growth remained consistent.
 
 ---
 
 ## Report 3: Profit & Loss by Market
 
 ### Objective
-Compare profitability and gross margins across global markets.
+Compare profitability across markets.
 
-### Visualization
+### Dashboard
 
-![Profit and Loss by Market](images/pl_market.png)
+![Profit & Loss by Market](images/pl_market.png)
+
+### Highlights
+- Japan and New Zealand achieved strong gross margins.
+- India generated the highest overall revenue.
 
 ---
 
 ## Report 4: Gross Margin (%) by Quarter and Sub-Zone
 
 ### Objective
-Analyze regional gross margin performance across fiscal quarters.
+Evaluate regional profitability trends.
 
-### Visualization
+### Dashboard
 
 ![Gross Margin by Quarter and Sub-Zone](images/gm_subzone.png)
 
----
-
-# Key Learnings
-
-- Built end-to-end business reports using Microsoft Excel.
-- Applied advanced Pivot Tables and Power Query transformations.
-- Performed customer, product, market, sales, and financial analysis.
-- Generated actionable insights to support strategic decision-making.
-- Developed professional reporting and dashboarding skills.
+### Highlights
+- Regional differences highlighted operational efficiency variations.
+- Gross margins remained stable across major markets.
 
 ---
 
-# Repository Structure
+# Business Insights
 
-```
-AtliQ-Hardware-Sales-Finance-Analytics/
-│
-├── README.md
-├── AtliQ_Hardware_Analysis.xlsx
-│
-└── images/
-    ├── top_10_products.png
-    ├── division_performance.png
-    ├── new_products_analysis.png
-    ├── top_bottom_products.png
-    ├── country_net_sales.png
-    ├── customer_performance.png
-    ├── market_vs_target.png
-    ├── pl_fiscal_year.png
-    ├── pl_fiscal_month.png
-    ├── pl_market.png
-    └── gm_subzone.png
-```
+## Sales Insights
+
+- Personal Computers emerged as the fastest-growing division.
+- New product launches significantly contributed to FY2021 performance.
+- India remained the strongest market by revenue.
+- Customer partnerships accelerated business growth.
+
+## Financial Insights
+
+- Revenue growth remained strong across fiscal years.
+- Gross margins demonstrated operational resilience.
+- Market profitability varied across regions.
+- Quarterly analysis supported strategic planning initiatives.
 
 ---
 
-## About
+# Learning Outcomes
 
-Sales and Finance Analytics project developed using Microsoft Excel to analyze business performance, identify growth opportunities, and support data-driven decision-making across products, customers, markets, and financial operations.
-````
+Through this project, I strengthened my skills in:
+
+- Business Analytics
+- Financial Reporting
+- Sales Performance Analysis
+- Data Cleaning and Transformation
+- Power Query
+- Pivot Tables and Power Pivot
+- Data Visualization
+- Business Storytelling with Excel
+
+---
+
+# Contact
+
+LinkedIn: [Add LinkedIn Profile]
+
+Portfolio: [Add Portfolio Link]
+
+Email: [Add Email Address]
+
+Feedback, suggestions, and collaboration opportunities are always welcome.
